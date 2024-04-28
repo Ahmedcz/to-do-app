@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: -650px;
+}
+
+.h4 {
+    font-size: 20px;
+    color: #3385D6;
+    font-weight: normal;
+    margin-bottom: 30px;
+}
